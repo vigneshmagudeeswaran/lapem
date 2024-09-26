@@ -1,0 +1,34 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Django migrations
+*/migrations/*
+
+# Database files
+db.sqlite3
+*.sqlite3
+
+# Environment variables
+.env
+
+# Static files
+/static/
+media/
+
+# VS Code settings
+.vscode/
+
+# Local development files
+*.log
+*.pot
+*.pyc
+
+# Python virtual environment
+/backend/.env
+
+venv/
+.env/
+.venv/
+ENV/
+env/
